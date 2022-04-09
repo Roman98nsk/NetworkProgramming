@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/roman/Рабочий стол/3 курс/6 семестр/Сетевое программирование/1 лабораторная'
+make: Leaving directory '/home/roman/Рабочий стол/3 курс/6 семестр/Сетевое программирование/1 лабораторная'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
